@@ -3,7 +3,7 @@
 </p>
 As a Computer Vision enthusiast, I decided to challenge myself. From now on, I will share my journey to learn OpenCV for 15 days. I planned to add daily python files and sources. You can check if I fail or if I become the OpenCV master. 👩🏻‍💻
 <br><br>
-📌 25.02.2023<br>
+📌 25.02.2023 - cv0.py: I used imread, imwrite and imshow(additionaly gray option) functions. I showed size, datatype and shape of image. I also split image for blue, green and red. Finally I did some practice about pixels. 🥳<br><br>
 📌 26.02.2023<br>
 📌 27.02.2023<br>
 📌 28.02.2023<br>
