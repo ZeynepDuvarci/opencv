@@ -6,7 +6,7 @@ As a Computer Vision enthusiast, I decided to challenge myself. From now on, I w
 📌 25.02.2023 - cv0.py: I used imread, imwrite and imshow(additionaly gray option) functions. I showed size, datatype, shape of image and difference between gray and original image. I also split image for blue, green and red. Finally I did some practice about pixels. 🥳<br><br>
 📌 26.02.2023 - cv1.py: I captured the dog video,showed original version and additionally resized version.<br>
 cv1.1.py: I worked on color effects for image and specific part of image.<br>
-cv1.2.py: I worked on some basic OpenCV functions. I study converting image to grayscale, blurring, edge cascade, edge cascade for a blurry image,dilating, eroding, resizing, cropping. 🥳<br><br>
+cv1.2.py: I worked on some basic OpenCV functions. I study converting image to grayscale, blurring, edge cascade, edge cascade for a blurry image,dilating, eroding, resizing and finally cropping. 🥳<br><br>
 📌 27.02.2023<br>
 📌 28.02.2023<br>
 📌 01.03.2023<br>
