@@ -1,5 +1,4 @@
 # 26.02.2023
-
 # it gives error -215:Assertion failed
 # because video ran out of frames
 # also this error may happen when you given the wrong directory 

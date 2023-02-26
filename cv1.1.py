@@ -1,5 +1,4 @@
 # 26.02.2023
-
 import cv2
 
 img=cv2.imread('giraffe.jpg')
