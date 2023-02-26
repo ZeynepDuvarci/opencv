@@ -21,6 +21,6 @@ cv1.2.py: I worked on some basic OpenCV functions. I study converting image to g
 📌 10.03.2023<br>
 📌 11.03.2023<br>
 <br><br>Sources:<br>
-🐝 Full tutorial of OpenCV: https://www.youtube.com/watch?v=oXlwWbU8l2o <br>
-🐝 Turkish video series of OpenCV: https://youtu.be/hRzBtQh6wuU <br>
+🐝 Full tutorial for OpenCV: https://www.youtube.com/watch?v=oXlwWbU8l2o <br>
+🐝 Turkish video series for OpenCV: https://youtu.be/hRzBtQh6wuU <br>
 🐝 No module named 'cv2' error solution: https://bobbyhadz.com/blog/python-no-module-named-cv2
