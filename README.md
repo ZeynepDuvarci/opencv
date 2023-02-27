@@ -3,11 +3,16 @@
 </p>
 As a Computer Vision enthusiast, I decided to challenge myself. From now on, I will share my journey to learn OpenCV for 15 days. I planned to add daily python files and sources. You can check if I fail or if I become the OpenCV master. 👩🏻‍💻
 <br><br>
-📌 25.02.2023 - cv0.py: I used imread, imwrite and imshow(additionaly gray option) functions. I showed size, datatype, shape of image and difference between gray and original image. I also split image for blue, green and red. Finally I did some practice about pixels. 🥳<br><br>
-📌 26.02.2023 - cv1.py: I captured the dog video,showed original version and additionally resized version.<br>
-cv1.1.py: I worked on color effects for image and specific part of image.<br>
-cv1.2.py: I worked on some basic OpenCV functions. I study converting image to grayscale, blurring, edge cascade, edge cascade for a blurry image,dilating, eroding, resizing and finally cropping. 🥳<br><br>
-📌 27.02.2023<br>
+📌 25.02.2023 <br> 
+cv0.py: I used imread, imwrite and imshow(additionaly gray option) functions. I showed size, datatype, shape of image and difference between gray and original image. I also split image for blue, green and red. Finally I did some practice about pixels. 🥳<br><br>
+📌 26.02.2023 <br> 
+cv1.py: capturing the dog video, showing original version and resized version.<br>
+cv1.1.py: color effects on image and specific part of image.<br>
+cv1.2.py: converting image to grayscale, blurring, edge cascade, edge cascade for a blurry image, dilating, eroding, resizing and finally cropping. 🥳<br><br>
+📌 27.02.2023 <br>
+cv2.0.py: face detection on image using haarcascade_frontalface_default.xml from openCV<br>
+cv2.1.py: translating, rotating and flipping an image <br>
+cv2.2.py: face detection on video using haarcascade_frontalface_default.xml from openCV and saving the video. 🥳<br><br>
 📌 28.02.2023<br>
 📌 01.03.2023<br>
 📌 02.03.2023<br>
@@ -23,4 +28,7 @@ cv1.2.py: I worked on some basic OpenCV functions. I study converting image to g
 <br><br>Sources:<br>
 🐝 Full tutorial for OpenCV: https://www.youtube.com/watch?v=oXlwWbU8l2o <br>
 🐝 Turkish video series for OpenCV: https://youtu.be/hRzBtQh6wuU <br>
-🐝 No module named 'cv2' error solution: https://bobbyhadz.com/blog/python-no-module-named-cv2
+🐝 No module named 'cv2' error solution: https://bobbyhadz.com/blog/python-no-module-named-cv2 <br>
+🐝 Saving video with openCV: https://www.geeksforgeeks.org/saving-a-video-using-opencv/ <br>
+🐝 haarcascade_frontalface_default.xml: https://github.com/opencv/opencv/tree/4.x/data/haarcascades <br>
+🐝 AttributeError: module 'cv2' has no attribute 'imread': https://stackoverflow.com/questions/47857141/attributeerror-module-cv2-has-no-attribute-imread
