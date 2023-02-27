@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif0.gif" alt="animated" />
+  <img src="resourcesAndOutputs\gif0.gif" alt="animated" />
 </p>
 As a Computer Vision enthusiast, I decided to challenge myself. From now on, I will share my journey to learn OpenCV for 15 days. I planned to add daily python files, projects and sources. You can check if I fail or if I become the OpenCV master. 👩🏻‍💻
 <br><br>
