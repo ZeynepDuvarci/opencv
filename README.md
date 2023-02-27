@@ -24,3 +24,4 @@ cv1.2.py: I worked on some basic OpenCV functions. I study converting image to g
 🐝 Full tutorial for OpenCV: https://www.youtube.com/watch?v=oXlwWbU8l2o <br>
 🐝 Turkish video series for OpenCV: https://youtu.be/hRzBtQh6wuU <br>
 🐝 No module named 'cv2' error solution: https://bobbyhadz.com/blog/python-no-module-named-cv2
+🐝 Saving video with openCV: https://www.geeksforgeeks.org/saving-a-video-using-opencv/
