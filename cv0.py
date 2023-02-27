@@ -11,12 +11,12 @@ import cv2
 import numpy as np
 
 # image to numpy array
-img=cv2.imread("giraffe.jpg")
+img=cv2.imread("resourcesAndOutputs/giraffe.jpg")
 # gray version 
-img0=cv2.imread("giraffe.jpg",0)
+img0=cv2.imread("resourcesAndOutputs/giraffe.jpg",0)
 
 # save new image
-cv2.imwrite("graygiraffe.jpg",img0)
+cv2.imwrite("resourcesAndOutputs/graygiraffe.jpg",img0)
 
 # copy image
 img1=img.copy()

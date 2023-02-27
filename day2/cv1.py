@@ -14,7 +14,7 @@ def rescaleFrame(frame, scale=0.75):
 
     return cv2.resize(frame,dimension,interpolation=cv2.INTER_AREA)
 
-capture= cv2.VideoCapture('dog.mp4')
+capture= cv2.VideoCapture('resourcesAndOutputs/dog.mp4')
     
 while True:
     #read video frame by frame

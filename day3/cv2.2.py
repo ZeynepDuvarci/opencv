@@ -6,7 +6,7 @@ import numpy as np
 # 0 your pc camera
 # 1 USB camera
 # 2 video or direction
-haar_cascade=cv2.CascadeClassifier('haar_face.xml')
+haar_cascade=cv2.CascadeClassifier('resourcesAndOutputs/haar_face.xml')
 
 camera=cv2.VideoCapture(0)
 
@@ -15,7 +15,7 @@ frame_height = int(camera.get(4))
    
 size = (frame_width, frame_height)
 
-result = cv2.VideoWriter('video.avi', 
+result = cv2.VideoWriter('resourcesAndOutputs/video.avi', 
                          cv2.VideoWriter_fourcc(*'MJPG'),
                          10, size)
 

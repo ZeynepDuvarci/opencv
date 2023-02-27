@@ -2,9 +2,9 @@
 
 import cv2
 
-img=cv2.imread('person.jpg')
+img=cv2.imread('resourcesAndOutputs/person.jpg')
 
-img0=cv2.imread('people.jpg')
+img0=cv2.imread('resourcesAndOutputs/people.jpg')
 
 
 # gray scailing
@@ -12,7 +12,7 @@ gray=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 gray0=cv2.cvtColor(img0,cv2.COLOR_BGR2GRAY)
 
 
-haar_cascade=cv2.CascadeClassifier('haar_face.xml')
+haar_cascade=cv2.CascadeClassifier('resourcesAndOutputs/haar_face.xml')
 
 # minNeighbors is determining the sensitivity
 faces_rect=haar_cascade.detectMultiScale(gray,scaleFactor=1.1,minNeighbors=3)

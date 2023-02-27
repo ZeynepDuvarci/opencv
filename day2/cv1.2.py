@@ -1,7 +1,7 @@
 # 26.02.2023
 import cv2
 
-img=cv2.imread('giraffe.jpg')
+img=cv2.imread('resourcesAndOutputs/giraffe.jpg')
 cv2.imshow('Original Giraffe',img)
 
 # converting to grayscale

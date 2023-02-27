@@ -2,7 +2,7 @@
 import cv2
 import numpy as np
 
-img=cv2.imread('giraffe.jpg')
+img=cv2.imread('resourcesAndOutputs/giraffe.jpg')
 cv2.imshow('Giraffe',img)
 
 #translation- shifting an image along the x and y axis
