@@ -31,3 +31,4 @@ cv2.2.py: face detection on video using haarcascade_frontalface_default.xml from
 🐝 No module named 'cv2' error solution: https://bobbyhadz.com/blog/python-no-module-named-cv2 <br>
 🐝 Saving video with openCV: https://www.geeksforgeeks.org/saving-a-video-using-opencv/ <br>
 🐝 haarcascade_frontalface_default.xml: https://github.com/opencv/opencv/tree/4.x/data/haarcascades
+🐝 AttributeError: module 'cv2' has no attribute 'imread': https://stackoverflow.com/questions/47857141/attributeerror-module-cv2-has-no-attribute-imread
