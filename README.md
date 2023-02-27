@@ -12,7 +12,7 @@ cv1.2.py: I worked on some basic OpenCV functions. I study converting image to g
 📌 27.02.2023 <br>
 cv2.0.py: face detection on image using haarcascade_frontalface_default.xml from openCV<br>
 cv2.1.py: translating, rotating and flipping an image <br>
-cv2.2.py: face detection on video using haarcascade_frontalface_default.xml from openCV and saving the video.<br><br>
+cv2.2.py: face detection on video using haarcascade_frontalface_default.xml from openCV and saving the video. 🥳<br><br>
 📌 28.02.2023<br>
 📌 01.03.2023<br>
 📌 02.03.2023<br>
