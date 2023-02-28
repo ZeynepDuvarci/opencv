@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="gif0.gif" alt="animated" />
+  <img src="resourcesAndOutputs\gif0.gif" alt="animated" />
 </p>
-As a Computer Vision enthusiast, I decided to challenge myself. From now on, I will share my journey to learn OpenCV for 15 days. I planned to add daily python files and sources. You can check if I fail or if I become the OpenCV master. 👩🏻‍💻
+As a Computer Vision enthusiast, I decided to challenge myself. From now on, I will share my journey to learn OpenCV for 15 days. I planned to add daily python files, projects and sources. You can check if I fail or if I become the OpenCV master. 👩🏻‍💻
 <br><br>
 📌 25.02.2023 <br> 
-cv0.py: I used imread, imwrite and imshow(additionaly gray option) functions. I showed size, datatype, shape of image and difference between gray and original image. I also split image for blue, green and red. Finally I did some practice about pixels. 🥳<br><br>
+cv0.py: imread, imwrite and imshow(additionaly gray option) functions, showing the size, datatype, shape of image and difference between gray and original image, splitting image for blue, green and red and some practice about pixels. 🥳<br><br>
 📌 26.02.2023 <br> 
 cv1.py: capturing the dog video, showing original version and resized version.<br>
 cv1.1.py: color effects on image and specific part of image.<br>
@@ -14,7 +14,7 @@ cv2.0.py: face detection on image using haarcascade_frontalface_default.xml from
 cv2.1.py: translating, rotating and flipping an image <br>
 cv2.2.py: face detection on video using haarcascade_frontalface_default.xml from openCV and saving the video. 🥳<br><br>
 <p align="center" >
-  <img src="video.gif" alt="animated" width="350" height="250"/>
+  <img src="resourcesAndOutputs\video.gif" alt="animated" width="350" height="250"/>
 </p>
 <br><br>
 📌 28.02.2023<br>
