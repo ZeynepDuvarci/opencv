@@ -16,8 +16,13 @@ cv2.2.py: face detection on video using haarcascade_frontalface_default.xml from
 <p align="center" >
   <img src="resourcesAndOutputs\video.gif" alt="animated" width="350" height="250"/>
 </p>
-<br><br>
+<br>
 📌 28.02.2023<br>
+cv3.py , cv3.1.py: training openCV built-in model with celebrity images using haarcascade_frontalface_default.xml and testing with validation images.<br><br>
+<p align="center" >
+  <img src="resourcesAndOutputs\madonna.jpg"/>
+</p><br>
+
 📌 01.03.2023<br>
 📌 02.03.2023<br>
 📌 03.03.2023<br>
