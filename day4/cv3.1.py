@@ -13,7 +13,7 @@ labels=np.load('resourcesAndOutputs/labels.npy',allow_pickle=True)
 face_recognizer=cv2.face.LBPHFaceRecognizer_create()
 face_recognizer.read('resourcesAndOutputs/face_trained.yml')
 
-img=cv2.imread(r'resourcesAndOutputs/Faces/val/ben_afflek/2.jpg')
+img=cv2.imread(r'resourcesAndOutputs/Faces/val/mindy_kaling/4.jpg')
 
 gray=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 cv2.imshow('Person',gray)
@@ -28,12 +28,12 @@ for(x,y,w,h) in faces_rect:
     
     cv2.putText(img,str(people[label]),(20,20),cv2.FONT_HERSHEY_COMPLEX,1.0,(0,0,255),thickness=2)
     
-    cv2.putText(img,str('{:.2f}%'.format(confidence)),(20,50),cv2.FONT_HERSHEY_COMPLEX,1.0,(0,0,255),thickness=2)
+    cv2.putText(img,str('{:.2f}%'.format(confidence)),(10,50),cv2.FONT_HERSHEY_COMPLEX,1.0,(0,0,255),thickness=2)
     
     cv2.rectangle(img,(x,y),(x+w,y+h),(0,0,255),thickness=2)
 
 cv2.imshow('Detected Face', img)
-cv2.imwrite('resourcesAndOutputs/ben_afflek.jpg',img)
+cv2.imwrite('resourcesAndOutputs/mindy_kaling.jpg',img)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
