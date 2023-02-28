@@ -33,7 +33,7 @@ for(x,y,w,h) in faces_rect:
     cv2.rectangle(img,(x,y),(x+w,y+h),(0,0,255),thickness=2)
 
 cv2.imshow('Detected Face', img)
-cv2.imwrite('madonna.jpg',img)
+cv2.imwrite('resourcesAndOutputs/madonna.jpg',img)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
