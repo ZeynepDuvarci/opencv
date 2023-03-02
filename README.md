@@ -28,7 +28,7 @@ cv3.py , cv3.1.py: training openCV built-in model with celebrity images using ha
 </p><br>
 
 📌 01.03.2023<br>
-📌 02.03.2023<br>
+📌 02.03.2023<br>kaggle: https://www.kaggle.com/code/zeynepduvarci/simpsons-opencv
 📌 03.03.2023<br>
 📌 04.03.2023<br>
 📌 05.03.2023<br>
