@@ -27,8 +27,9 @@ cv3.py , cv3.1.py: training openCV built-in model with celebrity images using ha
   <img src="resourcesAndOutputs\mindy_kaling.jpg" width='300' height='218'/>
 </p><br>
 
-📌 01.03.2023<br>
-📌 02.03.2023<br>kaggle: https://www.kaggle.com/code/zeynepduvarci/simpsons-opencv
+📌 01.03.2023<br> day off<br><br>
+📌 02.03.2023<br> simpsons character recognition kaggle: https://www.kaggle.com/code/zeynepduvarci/simpsons-opencv <br>
+I get an error i come back later. error: https://stackoverflow.com/questions/74734685/how-to-fix-this-value-error-valueerror-decay-is-deprecated-in-the-new-keras-o <br><br>
 📌 03.03.2023<br>
 📌 04.03.2023<br>
 📌 05.03.2023<br>
