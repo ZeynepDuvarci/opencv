@@ -23,8 +23,6 @@ cv3.py , cv3.1.py: training openCV built-in model with celebrity images using ha
   <img src="resourcesAndOutputs\madonna.jpg"/>
   <img src="resourcesAndOutputs\elton_john.jpg" width='200' height='218'/>
   <img src="resourcesAndOutputs\ben_afflek.jpg" width='200' height='218'/>
-  <img src="resourcesAndOutputs\jerry_seinfeld.jpg" width='200' height='218'/>
-  <img src="resourcesAndOutputs\mindy_kaling.jpg" width='300' height='218'/>
 </p><br>
 
 📌 01.03.2023<br> day off<br><br>
