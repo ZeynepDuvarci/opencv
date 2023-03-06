@@ -21,10 +21,13 @@ cv2.2.py: face detection on video using haarcascade_frontalface_default.xml from
 cv3.py , cv3.1.py: training openCV built-in model with celebrity images using haarcascade_frontalface_default.xml and testing with validation images.<br><br>
 <p align="center" >
   <img src="resourcesAndOutputs\madonna.jpg"/>
+  <img src="resourcesAndOutputs\elton_john.jpg" width='200' height='218'/>
+  <img src="resourcesAndOutputs\ben_afflek.jpg" width='200' height='218'/>
 </p><br>
 
-📌 01.03.2023<br>
-📌 02.03.2023<br>
+📌 01.03.2023<br> day off<br><br>
+📌 02.03.2023<br> simpsons character recognition kaggle: https://www.kaggle.com/code/zeynepduvarci/simpsons-opencv <br>
+I get an error i will come back later. error: https://stackoverflow.com/questions/74734685/how-to-fix-this-value-error-valueerror-decay-is-deprecated-in-the-new-keras-o <br><br>
 📌 03.03.2023<br>
 📌 04.03.2023<br>
 📌 05.03.2023<br>
