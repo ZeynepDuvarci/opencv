@@ -33,8 +33,9 @@ I get an error i will come back later. error: https://stackoverflow.com/question
 📌 05.03.2023<br>
 📌 06.03.2023<br>
 <p align="center" >
-  <img src="day10\video0.gif" alt="animated" width="350" height="250"/>
-  <img src="day10\video1.gif" alt="animated" width="350" height="250"/>
+  <img src="day10\video0.gif" alt="animated" width="300" height="200"/>
+  <img src="day10\handlandmarks.png" />
+  <img src="day10\video1.gif" alt="animated" width="300" height="200"/>
 </p>
 
 📌 07.03.2023<br>
