@@ -34,7 +34,7 @@ I get an error i will come back later. error: https://stackoverflow.com/question
 📌 06.03.2023<br>
 <p align="center" >
   <img src="day10\video0.gif" alt="animated" width="250" height="150"/>
-  <img src="day10\handlandmarks.png" />
+  <img src="day10\handlandmarks.png"  width="300" height="150" />
   <img src="day10\video1.gif" alt="animated" width="250" height="150"/>
 </p>
 
