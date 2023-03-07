@@ -33,8 +33,8 @@ I get an error i will come back later. error: https://stackoverflow.com/question
 📌 05.03.2023<br>
 PoseEstimation.py: pose detection on dance video
 <p align="center" >
-  <img src="day9\video.gif" alt="animated" width="250" height="150"/>
-  <img src="day9\body_landmarks.png"  width="300" height="150" />
+  <img src="day9\video.gif" alt="animated" width="350" height="200"/>
+  <img src="day9\body_landmarks.png"  width="350" height="200" />
  </p>
  <br>
 📌 06.03.2023<br>
