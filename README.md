@@ -31,6 +31,12 @@ I get an error i will come back later. error: https://stackoverflow.com/question
 📌 03.03.2023<br>
 📌 04.03.2023<br>
 📌 05.03.2023<br>
+PoseEstimation.py: pose detection on dance video
+<p align="center" >
+  <img src="day9\video.gif" alt="animated" width="250" height="150"/>
+  <img src="day9\body_landmarks.png"  width="300" height="150" />
+ </p>
+ <br>
 📌 06.03.2023<br>
 HandTrackingMin.py: hand tracking and marking specific hand landmarks <br> 
 <p align="center" >
