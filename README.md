@@ -56,4 +56,5 @@ HandTrackingMin.py: hand tracking and marking specific hand landmarks <br>
 🐝 No module named 'cv2' error solution: https://bobbyhadz.com/blog/python-no-module-named-cv2 <br>
 🐝 Saving video with openCV: https://www.geeksforgeeks.org/saving-a-video-using-opencv/ <br>
 🐝 haarcascade_frontalface_default.xml: https://github.com/opencv/opencv/tree/4.x/data/haarcascades <br>
-🐝 AttributeError: module 'cv2' has no attribute 'imread': https://stackoverflow.com/questions/47857141/attributeerror-module-cv2-has-no-attribute-imread
+🐝 AttributeError: module 'cv2' has no attribute 'imread': https://stackoverflow.com/questions/47857141/attributeerror-module-cv2-has-no-attribute-imread <br>
+🐝 Advanced OpenCv projects: https://www.youtube.com/watch?v=01sAkU_NvOY&t=5307s
