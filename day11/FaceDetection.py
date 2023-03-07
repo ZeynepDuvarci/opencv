@@ -4,6 +4,15 @@ import time
 
 cap =cv2.VideoCapture('day11/video.mp4')
 
+frame_width = int(cap.get(3))
+frame_height = int(cap.get(4))
+   
+size = (frame_width, frame_height)
+
+result = cv2.VideoWriter('day11/video.avi', 
+                         cv2.VideoWriter_fourcc(*'MJPG'),
+                         10, size)
+
 mpFaceDetection=mp.solutions.face_detection
 mpDraw=mp.solutions.drawing_utils
 faceDetection=mpFaceDetection.FaceDetection()
@@ -23,5 +32,7 @@ while True:
             
             cv2.rectangle(img,bbox,(255,0,255),2)    
             
+    result.write(img)        
     cv2.imshow('Image',img)
     cv2.waitKey(1)
+result.release()
