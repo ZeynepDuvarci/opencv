@@ -31,21 +31,25 @@ I get an error i will come back later. error: https://stackoverflow.com/question
 📌 03.03.2023<br>
 📌 04.03.2023<br>
 📌 05.03.2023<br>
-PoseEstimation.py: pose detection on dance video
+PoseEstimation.py: pose detection on dance video with mediapipe
 <p align="center" >
   <img src="day9\video.gif" alt="animated" width="350" height="200"/>
   <img src="day9\body_landmarks.png"  width="350" height="200" />
  </p>
  <br>
 📌 06.03.2023<br>
-HandTrackingMin.py: hand tracking and marking specific hand landmarks <br> <br>
+HandTrackingMin.py: hand tracking and marking specific hand landmarks with mediapipe <br> <br>
 <p align="center" >
   <img src="day10\video0.gif" alt="animated" width="250" height="150"/>
   <img src="day10\handlandmarks.png"  width="300" height="150" />
   <img src="day10\video1.gif" alt="animated" width="250" height="150"/>
 </p>
-
+<br>
 📌 07.03.2023<br>
+FaceDetection.py: face detection with mediapipe <br><br>
+<p align="center">
+  <img src="day11\video.gif" alt="animated" width="400" height="250"/>
+</p>
 📌 08.03.2023<br>
 📌 09.03.2023<br>
 📌 10.03.2023<br>
