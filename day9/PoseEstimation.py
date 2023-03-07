@@ -14,7 +14,7 @@ frame_height = int(cap.get(4))
    
 size = (frame_width, frame_height)
 
-result = cv2.VideoWriter('day9/video.avi', 
+result = cv2.VideoWriter('day9/video.', 
                          cv2.VideoWriter_fourcc(*'MJPG'),
                          10, size)
 while True:
