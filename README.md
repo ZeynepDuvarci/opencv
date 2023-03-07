@@ -38,7 +38,7 @@ PoseEstimation.py: pose detection on dance video
  </p>
  <br>
 📌 06.03.2023<br>
-HandTrackingMin.py: hand tracking and marking specific hand landmarks <br> 
+HandTrackingMin.py: hand tracking and marking specific hand landmarks <br> <br>
 <p align="center" >
   <img src="day10\video0.gif" alt="animated" width="250" height="150"/>
   <img src="day10\handlandmarks.png"  width="300" height="150" />
