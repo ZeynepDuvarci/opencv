@@ -55,6 +55,8 @@ FaceDetection.py: face detection with mediapipe <br><br>
 HandTrackingModule.py: module for hand tracking.<br>
 VolumeControl.py: volume control with hand gesture. 🥳<br><br>
 📌 09.03.2023<br>
+HandTrackingModule.py: module for hand tracking. <br>
+FingerCountingproject.py: display hand images due to up finger count.🥳<br><br>
 📌 10.03.2023<br>
 📌 11.03.2023<br>
 <br><br>Sources:<br>
