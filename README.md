@@ -30,6 +30,7 @@ cv3.py , cv3.1.py: training openCV built-in model with celebrity images using ha
 I get an error i will come back later. error: https://stackoverflow.com/questions/74734685/how-to-fix-this-value-error-valueerror-decay-is-deprecated-in-the-new-keras-o <br><br>
 📌 03.03.2023<br>
 📌 04.03.2023<br>
+FaceMash.py: display face mesh on live video. 🥳<br><br>
 📌 05.03.2023<br>
 PoseEstimation.py: pose detection on dance video with mediapipe
 <p align="center" >
