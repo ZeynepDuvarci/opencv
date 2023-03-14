@@ -25,7 +25,12 @@ cv3.py , cv3.1.py: training openCV built-in model with celebrity images using ha
   <img src="resourcesAndOutputs\ben_afflek.jpg" width='200' height='218'/>
 </p><br>
 
-📌 01.03.2023<br> day off<br><br>
+📌 01.03.2023<br>
+display red, green, blue values combination on screen with Trackbar. 🥳<br>
+<p align="center" >
+  <img src="day5\rgbcolor.png" width='200' height='300'/>
+  </p>
+  <br><br>
 📌 02.03.2023<br> simpsons character recognition kaggle: https://www.kaggle.com/code/zeynepduvarci/simpsons-opencv <br>
 I get an error i will come back later. error: https://stackoverflow.com/questions/74734685/how-to-fix-this-value-error-valueerror-decay-is-deprecated-in-the-new-keras-o <br><br>
 📌 03.03.2023<br>
