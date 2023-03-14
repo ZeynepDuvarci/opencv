@@ -18,7 +18,7 @@ cv2.2.py: face detection on video using haarcascade_frontalface_default.xml from
 </p>
 <br>
 📌 28.02.2023<br>
-cv3.py , cv3.1.py: training openCV built-in model with celebrity images using haarcascade_frontalface_default.xml and testing with validation images.<br><br>
+cv3.py , cv3.1.py: training openCV built-in model with celebrity images using haarcascade_frontalface_default.xml and testing with validation images. 🥳<br><br>
 <p align="center" >
   <img src="resourcesAndOutputs\madonna.jpg"/>
   <img src="resourcesAndOutputs\elton_john.jpg" width='200' height='218'/>
@@ -26,18 +26,16 @@ cv3.py , cv3.1.py: training openCV built-in model with celebrity images using ha
 </p><br>
 
 📌 01.03.2023<br>
-display red, green, blue values combination on screen with Trackbar. 🥳<br>
-<p align="center" >
-  <img src="day5\rgbcolor.png" width='200' height='300'/>
-  </p>
+display red, green, blue values combination on screen with Trackbar. 🥳
   <br><br>
 📌 02.03.2023<br> simpsons character recognition kaggle: https://www.kaggle.com/code/zeynepduvarci/simpsons-opencv <br>
 I get an error i will come back later. error: https://stackoverflow.com/questions/74734685/how-to-fix-this-value-error-valueerror-decay-is-deprecated-in-the-new-keras-o <br><br>
 📌 03.03.2023<br>
+I had a break. 🥱 😴<br><br>
 📌 04.03.2023<br>
 FaceMash.py: display face mesh on live video. 🥳<br><br>
 📌 05.03.2023<br>
-PoseEstimation.py: pose detection on dance video with mediapipe
+PoseEstimation.py: pose detection on dance video with mediapipe. 🥳<br><br>
 <p align="center" >
   <img src="day9\video.gif" alt="animated" width="350" height="200"/>
   <img src="day9\body_landmarks.png"  width="350" height="200" />
@@ -45,7 +43,7 @@ PoseEstimation.py: pose detection on dance video with mediapipe
  <br>
 📌 06.03.2023<br>
 HandTrackingMin.py: hand tracking and marking specific hand landmarks with mediapipe <br>
-HandTrackingModule.py: module for hand tracking <br> <br>
+HandTrackingModule.py: module for hand tracking. 🥳<br> <br>
 <p align="center" >
   <img src="day10\video0.gif" alt="animated" width="250" height="150"/>
   <img src="day10\handlandmarks.png"  width="300" height="150" />
@@ -53,7 +51,7 @@ HandTrackingModule.py: module for hand tracking <br> <br>
 </p>
 <br>
 📌 07.03.2023<br>
-FaceDetection.py: face detection with mediapipe <br><br>
+FaceDetection.py: face detection with mediapipe. 🥳 <br><br>
 <p align="center">
   <img src="day11\video.gif" alt="animated" width="400" height="250"/>
 </p>
@@ -65,6 +63,10 @@ HandTrackingModule.py: module for hand tracking. <br>
 FingerCountingproject.py: display hand images due to up finger count.🥳<br><br>
 📌 10.03.2023<br>
 QrBarSet.py: scanning qrcode and ean-code on live video.🥳 <br><br>
+<p align="center">
+<img src="day14\qrcode.png" width='300' height='218'/>
+  <img src="day14\ean.png" width='300' height='218'/>
+  <p>
 📌 11.03.2023<br>
 <br><br>Sources:<br>
 🐝 Full tutorial for OpenCV: https://www.youtube.com/watch?v=oXlwWbU8l2o <br>
