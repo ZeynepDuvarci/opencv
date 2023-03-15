@@ -58,9 +58,16 @@ FaceDetection.py: face detection with mediapipe. 🥳 <br><br>
 📌 08.03.2023<br>
 HandTrackingModule.py: module for hand tracking.<br>
 VolumeControl.py: volume control with hand gesture. 🥳<br><br>
+<p align="center">
+<img src="day12\volume0.png" width='300' height='218'/>
+  <img src="day12\volume1.png" width='300' height='218'/>
+  <p>
 📌 09.03.2023<br>
 HandTrackingModule.py: module for hand tracking. <br>
 FingerCountingproject.py: display hand images due to up finger count.🥳<br><br>
+<p align="center">
+  <img src="day13\finger.png" width='300' height='218'/>
+  <p>
 📌 10.03.2023<br>
 QrBarSet.py: scanning qrcode and ean-code on live video.🥳 <br><br>
 <p align="center">
