@@ -33,7 +33,7 @@ I get an error i will come back later. error: https://stackoverflow.com/question
 📌 03.03.2023<br>
 I had a break. 🥱 😴<br><br>
 📌 04.03.2023<br>
-FaceMash.py: display face mesh on live video. 🥳<br><br>
+FaceMesh.py: display face mesh on live video. 🥳<br><br>
 📌 05.03.2023<br>
 PoseEstimation.py: pose detection on dance video with mediapipe. 🥳<br><br>
 <p align="center" >
@@ -75,6 +75,13 @@ QrBarSet.py: scanning qrcode and ean-code on live video.🥳 <br><br>
   <img src="day14\ean.png" width='300' height='218'/>
   <p>
 📌 11.03.2023<br>
+BlinkCounter.py: counting blinks on video and display ratio. 🥳<br><br>
+<p align="center">
+<img src="day15\blink.png"/>
+  <p>
+🎺🎺🎺🎺🎺🎺 Ultimate Results 🎺🎺🎺🎺🎺🎺<br><br>
+Even though I was late in achieving my goal, I had a lot of fun and I made a lot of examples on a subject that I had not experienced before. I want to do more examples about opencv and improve myself in computer vision. For that reason I want to add more opencv projects on my github account. So keep on following. 🤹‍♀️🤹‍♀️🤹‍♀️🤹‍♀️<br>
+
 <br><br>Sources:<br>
 🐝 Full tutorial for OpenCV: https://www.youtube.com/watch?v=oXlwWbU8l2o <br>
 🐝 Turkish video series for OpenCV: https://youtu.be/hRzBtQh6wuU <br>
@@ -82,4 +89,7 @@ QrBarSet.py: scanning qrcode and ean-code on live video.🥳 <br><br>
 🐝 Saving video with openCV: https://www.geeksforgeeks.org/saving-a-video-using-opencv/ <br>
 🐝 haarcascade_frontalface_default.xml: https://github.com/opencv/opencv/tree/4.x/data/haarcascades <br>
 🐝 AttributeError: module 'cv2' has no attribute 'imread': https://stackoverflow.com/questions/47857141/attributeerror-module-cv2-has-no-attribute-imread <br>
-🐝 Advanced OpenCv projects: https://www.youtube.com/watch?v=01sAkU_NvOY&t=5307s
+🐝 Advanced OpenCv projects: https://www.youtube.com/watch?v=01sAkU_NvOY&t=5307s <br>
+🐝 Trackbar for displaying rgb: https://www.youtube.com/watch?v=p0uyh0tAATc <br>
+🐝 Eye Blink Count: https://www.youtube.com/watch?v=-TVUwH1PgBs&t=544s <br>
+
