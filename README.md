@@ -13,10 +13,6 @@ cv1.2.py: converting image to grayscale, blurring, edge cascade, edge cascade fo
 cv2.0.py: face detection on image using haarcascade_frontalface_default.xml from openCV<br>
 cv2.1.py: translating, rotating and flipping an image <br>
 cv2.2.py: face detection on video using haarcascade_frontalface_default.xml from openCV and saving the video. 🥳<br><br>
-<p align="center" >
-  <img src="resourcesAndOutputs\video.gif" alt="animated" width="350" height="250"/>
-</p>
-<br>
 📌 28.02.2023<br>
 cv3.py , cv3.1.py: training openCV built-in model with celebrity images using haarcascade_frontalface_default.xml and testing with validation images. 🥳<br><br>
 <p align="center" >
