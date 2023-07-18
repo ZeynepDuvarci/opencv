@@ -76,7 +76,7 @@ BlinkCounter.py: counting blinks on video and display ratio. 🥳<br><br>
 <img src="day15\blink.png"/>
   <p>
 🎺🎺🎺🎺🎺🎺 Ultimate Results 🎺🎺🎺🎺🎺🎺<br><br>
-Even though I was late in achieving my goal, I had a lot of fun and I made a lot of examples on a subject that I had not experienced before. I want to do more examples about opencv and improve myself in computer vision. For that reason I want to add more opencv projects on my github account. So keep on following. 🤹‍♀️🤹‍♀️🤹‍♀️🤹‍♀️<br>
+I had a lot of fun and I made a lot of examples on a subject that I had not experienced before. I want to do more examples about opencv and improve myself in computer vision. For that reason I want to add more opencv projects on my github account. So keep on following. 🤹‍♀️🤹‍♀️🤹‍♀️🤹‍♀️<br>
 
 <br><br>Sources:<br>
 🐝 Full tutorial for OpenCV: https://www.youtube.com/watch?v=oXlwWbU8l2o <br>
